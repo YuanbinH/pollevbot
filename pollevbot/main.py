@@ -2,9 +2,9 @@ from pollevbot import PollBot
 
 
 def main():
-    user = 'yuanbin@unc.edu'
-    password = '2r!aKVdk6DKvN25'
-    host = 'tuscanleather011'
+    user = 'My Username'
+    password = 'My Password'
+    host = 'PollEverywhere URL Extension e.g. "uwpsych"'
     login_type = 'pollev'
 
     # If you're using a non-uw PollEv account,
